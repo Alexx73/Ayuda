@@ -1,0 +1,7 @@
+.imgHov {
+  transition: all 0.9s;
+}
+
+.imgHov:hover {
+  transform: scale(1.13);
+}
